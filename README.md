@@ -4,7 +4,7 @@ To ensure consistency, a model that conforms to the metamodel below can be const
 
 <img src="propogendsl.png" width="700">
 
-and then used to generate all these overlapping tables in a consistent manner. This use-case can also demonstrate the need for model validation as models conforming to the metamodel above need to satisfy additional constraints that cannot be expressed by Ecore itself (e.g. the end-month of a task needs to be greater than its start month, the leader of a work-package needs to have some effort allocated in the work-package etc.). An overview of the workflow is provided below.
+and then used to generate all these overlapping tables in a consistent manner. This use-case can also demonstrate the need for OCL-like model validation as models conforming to the metamodel above need to satisfy additional constraints that cannot be expressed by Ecore itself (e.g. the end-month of a task needs to be greater than its start month, the leader of a work-package needs to have some effort allocated in the work-package etc.). An overview of the workflow is provided below.
 
 ![Workflow](workflow.png)
 
