@@ -1,1 +1,2 @@
-# research-project-proposals
+Designing a collaborative reserach project is a complex task that involves splitting the work across a number of work-packages, breaking work-packages down into tasks and deliverables, allocating effort to different partners etc. Moreover, to comply with the requirements of the funder, proposal documents need to contain several tables with overlapping information (effort per work-package, effort per partner, deliverables per work-package, deliverables for the entire project in chronological order etc.). Maintaining these tables manually is very error prone, particularly as the deadline approaches.
+
