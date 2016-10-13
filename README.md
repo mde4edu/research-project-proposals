@@ -8,4 +8,4 @@ and then used to generate all these overlapping tables (e.g. in LaTeX) in a cons
 
 ![Workflow](workflow.png)
 
-This use-case, along with an estimate of the benefits it has delivered in the context of several EC-funded projects is discussed in more detail in the paper ACM/IEEE MoDELS 2014 paper [Model-Driven Grant Proposal Engineering](http://link.springer.com/chapter/10.1007%2F978-3-319-11653-2_26).
+This use-case, along with an estimate of the benefits it has delivered in the context of several EC-funded projects is discussed in more detail in the ACM/IEEE MoDELS 2014 paper [Model-Driven Grant Proposal Engineering](http://link.springer.com/chapter/10.1007%2F978-3-319-11653-2_26).
